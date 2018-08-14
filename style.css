@@ -1,2 +1,22 @@
-<img source="images/triangle.png" alt="A photo of triangle">
-h1
+
+
+h1 {
+  color: black;
+  font-style:oblique;
+  text-align: center;
+}
+h2 {
+  color: grey;
+  font-style: italic;
+  text-align: center;
+}
+p {
+  font-family:sans-serif;
+}
+ul{
+  line-height:40px;
+}
+body{
+  background-color: pink;
+  background-size: cover;
+}
